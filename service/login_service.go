@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	e "itchat4go/enum" /* 取个别名 */
-	m "itchat4go/model"
-	t "itchat4go/tools"
+	e "github.com/Aszzo/itchat4go/enum" /* 取个别名 */
+	m "github.com/Aszzo/itchat4go/model"
+	t "github.com/Aszzo/itchat4go/tools"
 	"net/http"
 	"os"
 	"regexp"
